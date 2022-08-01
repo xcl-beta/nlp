@@ -1,2 +1,2 @@
 # npl
-experiment with npl methods
+experiment with nlp models
